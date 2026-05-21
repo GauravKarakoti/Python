@@ -1,0 +1,6 @@
+location = input("Where do you love to go? ")
+food = input("What food do you love there? ")
+people = input("Who do you love spending time with there? ")
+print("I love going to" + location)
+print("I love the " + food + " there")
+print("I love spending my time with my " + people)
